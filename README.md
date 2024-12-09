@@ -79,7 +79,21 @@ It's about **experimentation**! 🧪
       <p align="center">
         Example<br>
         <b>💡 Pattern</b>: “Engineering turns ideas into reality”<br>
-        <b> 🚀 Transformation </b>: X turns reality into ideas, What’s X?
+        <b>🚀 Transformation </b>: X turns reality into ideas, What’s X?
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+  <!-- Row Start -->
+  <tr>
+    <td width="50%">
+     <img src="https://github.com/user-attachments/assets/a95ba9ad-6e8f-4ca8-90ff-4400016a45f7" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: “Obviously, bigger organizations go slower.”<br>
+        <b>🚀 Transformation </b>: Why is this the assumption? What if you say I know we’re bigger but how much of our speed can we retain?
       </p>
     </td>
   </tr>
