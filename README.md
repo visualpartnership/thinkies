@@ -39,6 +39,7 @@ It's about **experimentation**! 🧪
 
 |Links|
 |:-----:|
+|[Tidy First?](https://tidyfirst.substack.com/) |
 |[Thinkies: Habits of creativity Keynote](https://www.youtube.com/watch?v=MiGUxPEtZHg)|
 |[Thinkies Introduction Post](https://tidyfirst.substack.com/p/thinkies-introduction)|
 |[Organizing Thinkies Post](https://tidyfirst.substack.com/p/organizing-thinkies)|
@@ -126,6 +127,48 @@ It's about **experimentation**! 🧪
         Example<br>
         <b>💡 Pattern</b>: The team is implementing 2 features at the same time. <br>
         <b> 🚀 Transformation </b>: Have the whole team work on one feature, ship it, then work on the next feature.
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+  <!-- Row Start -->
+  <tr>
+    <td width="50%">
+     <img src="https://github.com/user-attachments/assets/7cde6d44-d06b-46ac-80c7-954da0d0ae8a" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: Feedback between those who make changes & those affected by changes.<br>
+        <b> 🚀 Transformation </b>:  what would happen if the programmers talked 1x1 with the users?
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+  <!-- Row Start -->
+  <tr>
+    <td width="50%">
+     <img src="https://github.com/user-attachments/assets/7dde2574-1703-45cb-babd-6c4ec16e9499" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: There’s a system worked on by another system.<br>
+        <b> 🚀 Transformation</b>: Use the system on itself.  
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+  <!-- Row Start -->
+  <tr>
+    <td width="50%">
+     <img src="https://github.com/user-attachments/assets/eba6e48d-f97d-401a-9032-15065327faf2" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: You’re cutting corners because you have too much to do/not enough time.<br>
+        <b> 🚀 Transformation</b>: What would you do if you had enough time?
       </p>
     </td>
   </tr>
