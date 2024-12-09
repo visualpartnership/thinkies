@@ -2,7 +2,8 @@
 
 Researching about Thinkies, by Kent Beck
 
-![Thinkies](https://github.com/user-attachments/assets/e3abd11c-6d20-4765-9878-1bf78bb6e0e4)
+![](https://github.com/user-attachments/assets/44062f45-5117-4662-995e-f1a267fe38b1)
+
 
 > [!NOTE]
 > Thinkies are “tricks for creative thought”.
