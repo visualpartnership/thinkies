@@ -28,6 +28,9 @@ It's about **experimentation**! 🧪
 3. Generate new ideas 🌱🌱🌱🌱.
 4. Evaluate your new ideas implementation 🚀.
 
+![Ilustración_sin_título](https://github.com/user-attachments/assets/0743e20e-e696-4c50-b9dd-31e8cddae65f)
+
+
 ## Resources
 
 |Links|
