@@ -50,8 +50,36 @@ It's about **experimentation**! 🧪
     <td>
       <p align="center">
         Example<br>
-        <b>💡 Pattern</b>: We can’t release software after every change because there would be too many defects.<br>
+        <b>💡 Pattern</b>: "We can’t release software after every change because there would be too many defects."<br>
         <b> 🚀 Transformation </b>: When we have fewer defects we can release software after every change.
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+  <!-- Row Start -->
+  <tr>
+    <td width="50%"> 
+     <img src="https://github.com/user-attachments/assets/279b44c9-9f86-44e3-93d1-045a9f8f7218" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: “If we could just throw away all the source code & start over we could certainly succeed.”<br>
+        <b> 🚀 Transformation </b>: What would it look like to throw away all the source code?
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+  <!-- Row Start -->
+  <tr>
+    <td width="50%">
+     <img src="https://github.com/user-attachments/assets/383f5f91-63f3-4743-876d-8f54e012c330" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: “Engineering turns ideas into reality”<br>
+        <b> 🚀 Transformation </b>: X turns reality into ideas, What’s X?
       </p>
     </td>
   </tr>
