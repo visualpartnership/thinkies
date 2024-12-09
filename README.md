@@ -41,6 +41,15 @@ It's about **experimentation**! 🧪
 
 # Thinkies 🌱
 
+### 🔊 Language Thinkies 
+
+| Thinkies |
+|--------|
+| Can't/Because |
+| Laughter |
+| Reverse Phrase |
+| "Obviosly" |
+
 <table width="100%">
   <!-- Row Start -->
   <tr>
@@ -98,5 +107,24 @@ It's about **experimentation**! 🧪
     </td>
   </tr>
   <!-- Row End -->
-
 </table>
+
+### 💼 Project Management Thinkies
+
+<table width="100%">
+  <!-- Row Start -->
+  <tr>
+    <td width="50%"> 
+     <img src="https://github.com/user-attachments/assets/729ba504-6fe1-4576-969c-08c63ab559e6" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: The team is implementing 2 features at the same time. <br>
+        <b> 🚀 Transformation </b>: Have the whole team work on one feature, ship it, then work on the next feature.
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+</table>
+
