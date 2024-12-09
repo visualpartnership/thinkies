@@ -35,3 +35,23 @@ It's about **experimentation**! 🧪
 |[Thinkies: Habits of creativity Keynote](https://www.youtube.com/watch?v=MiGUxPEtZHg)|
 |[Thinkies Introduction Post](https://tidyfirst.substack.com/p/thinkies-introduction)|
 |[Organizing Thinkies Post](https://tidyfirst.substack.com/p/organizing-thinkies)|
+
+# Thinkies 🌱
+
+<table width="100%">
+  <!-- Row Start -->
+  <tr>
+    <td width="50%">
+     <img src="https://github.com/user-attachments/assets/a1b688c2-4a51-4605-971c-1baec86b511d" width="100%"/>
+    </td>
+    <td>
+      <p align="center">
+        Example<br>
+        <b>💡 Pattern</b>: We can’t release software after every change because there would be too many defects.<br>
+        <b> 🚀 Transformation </b>: When we have fewer defects we can release software after every change.
+      </p>
+    </td>
+  </tr>
+  <!-- Row End -->
+
+</table>
