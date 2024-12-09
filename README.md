@@ -22,6 +22,9 @@ Categories:
 
 It's about **experimentation**! 🧪
 
+![Ilustración_sin_título](https://github.com/user-attachments/assets/7ac89063-b20b-45e4-a1d1-38138289c7f4)
+
+
 ### Habits that can be learned
 
 1. Identify an idea 📍.
