@@ -1,10 +1,10 @@
 # Thinkies: Habits of creativity
 
 Researching about Thinkies, by Kent Beck
----
 
 ![Thinkies](https://github.com/user-attachments/assets/e3abd11c-6d20-4765-9878-1bf78bb6e0e4)
 
+> [!NOTE]
 > Thinkies are “tricks for creative thought”.
 
 Categories:
